@@ -1,0 +1,4 @@
+#Sun Apr 23 04:40:37 PDT 2023
+base.0=C\:\\Users\\hp\\MyProjects\\FullStack\\Frontend\\fullstack_flutter_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
